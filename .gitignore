@@ -1,0 +1,18 @@
+# Frontend
+techhub-frontend/node_modules/
+techhub-frontend/dist/
+
+# Backend
+techhub-backend/target/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# IDE files
+.vscode/
+.idea/
+
+# Logs
+*.log
